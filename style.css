@@ -297,12 +297,11 @@ body{
     justify-content: center;
     align-items: flex-start;
     background-image: url('./images/banner/b17.jpg');
-    min-width: 530px;/* 580px */
+    min-width: 580px;/* 580px */
     height: 50vh;
     background-size: cover;
     background-position: center;
     padding: 30px;
-    /* margin-bottom: 10px; */
 }
 #sm-banner .banner-box2{
     background-image: url('./images/banner/b10.jpg');
